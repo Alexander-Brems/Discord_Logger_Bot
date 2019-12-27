@@ -1,0 +1,136 @@
+{
+    "version": 513,
+    "data": {
+        "nextGuid": 5,
+        "heroes": {
+            "1": {
+                "roster.status": 1,
+                "roster.missing_duration": 0,
+                "roster.story_variation": 0,
+                "roster.missing_from": 0,
+                "roster.building_name": "",
+                "actor": {
+                    "name_id": "hero_name_dismas",
+                    "current_hp": 35,
+                    "stunned": 0,
+                    "ranks": 1,
+                    "combat_ready": false,
+                    "damage_source": "",
+                    "damage_source_type": 0,
+                    "damage_type": 0,
+                    "buff_group": {}
+                },
+                "heroClass": "leper",
+                "resolveXp": 0,
+                "stress": 10,
+                "weapon_rank": 0,
+                "armour_rank": 0,
+                "affliction_severity": 0,
+                "affliction_type_id": "",
+                "quirks": {
+                    "precision_striker": 
+                    {
+                        "is_new": false,
+                        "is_locked": false,
+                        "mission_count": 0
+                    },
+                    "fated":  
+                    {
+                        "is_new": false,
+                        "is_locked": false,
+                        "mission_count": 0
+                    },
+                    "sickly":  
+                    {
+                        "is_new": false,
+                        "is_locked": false,
+                        "mission_count": 0
+                    }
+                },
+                "skills": {
+                    "selected_combat_skills": {
+                        "chop": 0,
+                        "hew": 0,
+                        "focus": 0,
+                        "solemnity": 0
+                    },
+                    "selected_camping_skills": {
+                        "first_aid": 0,
+                        "let_the_mask_down": 0,
+                        "quarantine": 0
+                    }
+                },
+                "trinkets": {
+                    "system_config_type": "hero_equipped_trinkets",
+                    "items": {}
+                }
+            },
+            "2": {
+                "roster.status": 1,
+                "roster.missing_duration": 0,
+                "roster.story_variation": 0,
+                "roster.missing_from": 0,
+                "roster.building_name": "",
+                "actor": {
+                    "name_id": "hero_name_reynauld",
+                    "current_hp": 33,
+                    "stunned": 0,
+                    "ranks": 1,
+                    "combat_ready": false,
+                    "damage_source": "",
+                    "damage_source_type": 0,
+                    "damage_type": 0,
+                    "buff_group": {}
+                },
+                "heroClass": "crusader",
+                "resolveXp": 0,
+                "stress": 10,
+                "weapon_rank": 0,
+                "armour_rank": 0,
+                "affliction_severity": 0,
+                "affliction_type_id": "",
+                "quirks": {
+                    "warrior_of_light": 
+                    {
+                        "is_new": false,
+                        "is_locked": false,
+                        "mission_count": 0
+                    },
+                    "kleptomaniac":  
+                    {
+                        "is_new": false,
+                        "is_locked": false,
+                        "mission_count": 0
+                    },
+                    "god_fearing":  
+                    {
+                        "is_new": false,
+                        "is_locked": false,
+                        "mission_count": 0
+                    }
+                },
+                "skills": {
+                    "selected_combat_skills": {
+                        "smite": 0,
+                        "zealous_accusation": 0,
+                        "stunning_blow": 0,
+                        "bulwark_of_faith": 0
+                    },
+                    "selected_camping_skills": {
+                        "encourage": 0,
+                        "stand_tall": 0,
+                        "zealous_speech": 0
+                    }
+                },
+                "trinkets": {
+                    "system_config_type": "hero_equipped_trinkets",
+                    "items": {}
+                }
+            }
+        },
+        "last_party":
+        {
+            "last_party_guids": [-1,-1,2,1]
+        }
+    }
+}
