@@ -178,4 +178,4 @@ async def on_close():
     await client.change_presence(status=discord.Status.offline, activity=None)
 
 
-client.run('NjM3MDg5MTg2ODc2NDg5NzU5.XbJNOQ.6A7g3pQSt3BSumAFIr0KrD0SWyU')
+client.run('BOT_TOKEN')
