@@ -1,0 +1,1 @@
+This is a Discord bot designed to take a conversation in a Discord channel and 'log' it by placing it into a Word document and sending you that newly-created document in any channel you would like within that Discord server.
